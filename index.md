@@ -1,4 +1,3 @@
-GARCH modelling of farmaceutical stocks with MATLAB
 
 # Description
 We modeled the logarithm of the daily increase in closing prices of the stocks of Astrazeneca, Johnson&Johnson, Moderna and Pfizer on the yearly period
