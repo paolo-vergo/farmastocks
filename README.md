@@ -17,9 +17,9 @@ In particular we used:
 * Comparison of forecasting performances with MAE and MSE
 
 # Authors
-Davide Caffù  *Politecnico di Milano - MSc in Statistical Learning*
+Mirko Giovio  *Politecnico di Milano - MSc in Statistical Learning*
 
-Riccardo Scaramuzza   *Politecnico di Milano - MSc in Statistical Learning*
+Daniele Venturini   *Politecnico di Milano - MSc in Statistical Learning*
 
 Paolo Vergottini      *Politecnico di Milano - MSc in Statistical Learning*
 
