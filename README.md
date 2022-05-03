@@ -1,2 +1,2 @@
-# farmastocks
-Modelling of farmaceutical stocks with time series models
+# pharmastocks
+Modelling of pharmaceutical stocks with time series models
