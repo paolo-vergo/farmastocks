@@ -25,5 +25,5 @@ Paolo Vergottini      *Politecnico di Milano - MSc in Statistical Learning*
 
 # Acknowledgments
 
-The projects were carried out during Artificial Neural Networks and Deep Learning course of PoliMi, 2021.
-Special thanks to Prof. Matteucci and Prof. Boracchi, under whose guidance all the material was developed.
+The projects were carried out during Econometrics course of PoliMi, 2021.
+Special thanks to Prof. Sgarra, under whose guidance all the material was developed.
