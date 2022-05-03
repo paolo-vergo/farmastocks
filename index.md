@@ -14,6 +14,10 @@ In particular we used:
 * EGARCH modelling
 * Comparison of forecasting performances with MAE and MSE
 
+# Project report
+
+The full report of the project, containing all the references and a complete discussion of the modelling choices is available in Project Description.pdf.
+
 # Authors
 Mirko Giovio  *Politecnico di Milano - MSc in Statistical Learning*
 
