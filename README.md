@@ -1,6 +1,6 @@
 # Pharmastocks: GARCH Modelling of Pharmaceutical Stocks using MATLAB
 
-![Pharmastocks Banner](https://www.sarem-seitz.com/content/images/2023/01/gdaxi.png)
+![Pharmastocks Banner](./Graphs.png)
 
 ## Description
 
