@@ -1,33 +1,36 @@
-# pharmastocks
-GARCH modelling of farmaceutical stocks with MATLAB
+# Pharmastocks: GARCH Modelling of Pharmaceutical Stocks using MATLAB
 
-# Description
-We modeled the logarithm of the daily increase in closing prices of the stocks of Astrazeneca, Johnson&Johnson, Moderna and Pfizer on the yearly period
-ending on April 25th, 2021.
+![Pharmastocks Banner](https://www.sarem-seitz.com/content/images/2023/01/gdaxi.png)
 
-In particular we used:
+## Description
 
-* Augmented Dickey Fuller test
-* ARMA modelling
-* Model selection with AIC, BIC
-* One-sample Kolmogorov-Smirnov non-parametric test for normality
-* Ljung-Box Q-test
-* GARCH modelling
-* EGARCH modelling
-* Comparison of forecasting performances with MAE and MSE
+Welcome to Pharmastocks, a sophisticated project that leverages GARCH modeling techniques to analyze and forecast the logarithmic daily increase in closing prices of leading pharmaceutical stocks. In this project, we focus on the stocks of four prominent companies: Astrazeneca, Johnson & Johnson, Moderna, and Pfizer, for a yearly period ending on April 25th, 2021.
 
-# Project report
+Our comprehensive approach incorporates a range of advanced methodologies and statistical tests, including:
 
-The full report of the project, containing all the references and a complete discussion of the modelling choices is available in Project Description.pdf.
+- Augmented Dickey Fuller test
+- ARMA modeling
+- Model selection using AIC and BIC
+- One-sample Kolmogorov-Smirnov non-parametric test for normality
+- Ljung-Box Q-test
+- GARCH modeling
+- EGARCH modeling
+- Comparison of forecasting performances using MAE and MSE metrics
 
-# Authors
-Mirko Giovio  *Politecnico di Milano - MSc in Statistical Learning*
+## Project Report
 
-Daniele Venturini   *Politecnico di Milano - MSc in Statistical Learning*
+For an in-depth analysis and a complete discussion of our modeling choices, we invite you to explore the full project report, titled **Project Description.pdf**. This report encompasses all the necessary references and provides valuable insights into our project.
 
-Paolo Vergottini      *Politecnico di Milano - MSc in Statistical Learning*
+## Authors
 
-# Acknowledgments
+Pharmastocks is the result of the collaborative efforts of a group of friends (and also formrer students):
 
-The projects were carried out during Econometrics course of PoliMi, 2021.
-Special thanks to Prof. Sgarra, under whose guidance all the material was developed.
+- Mirko Giovio: *Politecnico di Milano - MSc in Statistical Learning*
+- Daniele Venturini: *Politecnico di Milano - MSc in Statistical Learning*
+- Paolo Vergottini: *Politecnico di Milano - MSc in Statistical Learning*
+
+## Acknowledgments
+
+We would like to express our sincere gratitude to Professor Sgarra for his guidance throughout the project. The Pharmastocks project was conducted as part of the Econometrics course at PoliMi in 2021. We extend our thanks to the entire course faculty for their support and encouragement.
+
+Feel free to reach out to us with any questions or feedback. Happy exploring!
